@@ -1,0 +1,100 @@
+﻿/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 10, 2018, 9:03:11 PM
+    Author     : Asaf
+*/
+
+    p {
+        font: 16px;
+        text-align: right;
+    }
+	#titles {
+		
+		width: 1000px; margin: 0 auto; overflow: auto; 
+	}
+	
+    #content {
+        background: #f0f0f0;
+       width: 1000px; margin: 0 auto; overflow: auto; 
+    }
+    
+    #text {
+        width: 50%;
+        float: right;
+    }
+        
+      img {
+        max-width: 100%;
+        max-height: 100%;
+        
+    }    
+  
+    
+    #picView {
+        width : 50%;
+        
+         
+    }
+    #mainPic {
+        max-width: 100%;
+        max-height: 100%; 
+    }
+
+
+    h1 {
+        font-size: 36px;
+        color: black;
+        background: #c7c7c7;
+        text-decoration-line: underline;  
+        text-align: center;
+        width: 1000px;
+       
+        margin: 0;
+ 
+    }
+    h2 {
+        color: black;
+        background: #c7c7c7;
+
+        text-align: center;
+        width: 1000px;
+       
+        margin: 0;
+     
+    }
+        
+    #homeLink{
+        color: black;
+        background: #c7c7c7;
+        text-align: center;
+        width: 1000px;
+    }
+    ul {
+        text-align: center;
+        overflow: hidden;
+        margin-top: 10px;
+        
+    }
+    li {
+
+        display: inline;
+        font-size: 24px;
+        padding: 30px ;
+        
+        border: black;
+        border-width: 20px;
+    }
+    
+    li a { color: #000; text-decoration: none; padding: 12px;}
+    li a:hover { background: #0f0fff; color: #fafaa0; padding: 12px;}
+    
+    #frontPage {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 40%;
+    }
